@@ -2,8 +2,6 @@
 
 Submitted by: **Yanzhu Huang**
 
-Link to project: https://github.com/YanzhuH/codepath-prework.git
-
 ## Required Functionality
 
 The following **required** functionality is complete:
